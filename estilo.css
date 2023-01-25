@@ -1,0 +1,5 @@
+*{margin: 0; padding: 0;}
+
+h1{text-align: center; margin: 20px;}
+
+#area{margin-left: auto; margin-right: auto; border-radius: 5px; box-shadow: 5px 5px 10px black; width: 500px; height: 500px;}
